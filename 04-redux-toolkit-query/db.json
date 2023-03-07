@@ -5,40 +5,20 @@
       "name": "Myra"
     },
     {
-      "name": "Marguerite Reynolds",
+      "name": "Timmy Bruen",
       "id": 2
-    },
-    {
-      "name": "Elsie Price",
-      "id": 3
-    },
-    {
-      "name": "Harold Strosin",
-      "id": 4
-    },
-    {
-      "name": "Carlton Gulgowski",
-      "id": 5
-    },
-    {
-      "name": "Cesar Weissnat",
-      "id": 6
-    },
-    {
-      "name": "Cora Upton",
-      "id": 7
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "userId": 1,
+      "title": "Modern Plastic Fish",
+      "id": 5
     },
     {
-      "userId": 1,
-      "title": "Incredible Cotton Bike",
-      "id": 11
+      "userId": 2,
+      "title": "Licensed Cotton Table",
+      "id": 6
     }
   ],
   "photos": []

@@ -2,7 +2,7 @@ import { configureStore } from '@reduxjs/toolkit';
 import { setupListeners } from '@reduxjs/toolkit/query';
 
 import { usersReducer } from './slices/usersSlice';
-import { albumsApi, useFetchAlbumsQuery, useAddAlbumMutation } from './apis/albumsApi';
+import { albumsApi, useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation } from './apis/albumsApi';
 
 
 export const store = configureStore({
@@ -25,4 +25,4 @@ export * from './thunks/removeUser';
 
 
 // Redux Toolkit Query
-export { useFetchAlbumsQuery, useAddAlbumMutation };
+export { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation };
