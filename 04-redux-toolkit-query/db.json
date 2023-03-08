@@ -22,9 +22,255 @@
     },
     {
       "userId": 1,
-      "title": "Handcrafted Metal Bacon",
-      "id": 7
+      "title": "Ergonomic Bronze Keyboard",
+      "id": 9
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30061",
+      "id": 1
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52553",
+      "id": 2
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64213",
+      "id": 3
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=32296",
+      "id": 4
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73917",
+      "id": 5
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36628",
+      "id": 6
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54452",
+      "id": 7
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41825",
+      "id": 8
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39791",
+      "id": 9
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88682",
+      "id": 10
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23598",
+      "id": 11
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42940",
+      "id": 12
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82920",
+      "id": 28
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78269",
+      "id": 29
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35011",
+      "id": 30
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50208",
+      "id": 31
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51155",
+      "id": 32
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79311",
+      "id": 33
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45767",
+      "id": 34
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8154",
+      "id": 35
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30523",
+      "id": 36
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80776",
+      "id": 37
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15402",
+      "id": 38
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5273",
+      "id": 39
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41323",
+      "id": 40
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8262",
+      "id": 41
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49942",
+      "id": 42
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71919",
+      "id": 43
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22858",
+      "id": 44
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68142",
+      "id": 45
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8041",
+      "id": 46
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43887",
+      "id": 47
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14532",
+      "id": 48
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28810",
+      "id": 49
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95402",
+      "id": 50
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15346",
+      "id": 51
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42898",
+      "id": 52
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=81683",
+      "id": 53
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=17072",
+      "id": 54
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7646",
+      "id": 55
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51048",
+      "id": 56
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48046",
+      "id": 57
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71728",
+      "id": 58
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78671",
+      "id": 59
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12175",
+      "id": 60
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14452",
+      "id": 61
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=52179",
+      "id": 62
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=18714",
+      "id": 63
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75412",
+      "id": 64
+    }
+  ]
 }
