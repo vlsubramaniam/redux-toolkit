@@ -26,7 +26,7 @@ function AlbumsListItem({ album }) {
 
   return (
     <ExpandablePanel key={album.id} header={header}>
-      <PhotosList album={album}/>
+      <PhotosList album={album} />
     </ExpandablePanel>
   );
 }

@@ -5,13 +5,13 @@ import PhotosListItem from "./PhotosListItem";
 
 
 function PhotosList({ album }) {
-    const {data, isFetching, error} = useFetchPhotosQuery(album);
+    const { data, isFetching, error } = useFetchPhotosQuery(album);
     const [addPhoto, addPhotoResults] = useAddPhotoMutation();
 
     const handleAddPhoto = () => addPhoto(album);
     let content;
 
-    if(isFetching) {
+    if (isFetching) {
         content = <Skeleton className='h-8 w-8' times={4} />
     } else if (error) {
         content = <div>Error fetching photos...</div>
